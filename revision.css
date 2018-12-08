@@ -1,0 +1,14 @@
+body{background-color:black;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: 1;
+}
+#Img0{
+    opacity:0.1;
+}
+#Img0:hover{
+    opacity:1;
+}
+a{
+    color:#333333;
+}
